@@ -1,7 +1,7 @@
 /** Simple On-board LED flashing program - written in C++ by Derek Molloy
 *    simple functional struture for the Exploring BeagleBone book
-*
-*    This program uses USR LED 3 and can be executed in four ways:
+*  
+*    This program uses USR LED 3 and can be executed in five ways:
 *         ./makeLED-hw7 on
 *         ./makeLED-hw7 off
 *         ./makeLED-hw7 flash  (flash at 100ms intervals - on 50ms/off 50ms)
